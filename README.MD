@@ -1,4 +1,1 @@
 # YOUJEONG's MINI HOMEPAGE 
-
-## 혈액형
-- O형
