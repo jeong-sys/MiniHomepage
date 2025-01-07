@@ -2,3 +2,5 @@
 
 ### HOBBY
 - BLOG
+### MBTI
+- ESTJ
